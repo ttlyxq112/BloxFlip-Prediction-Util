@@ -6,7 +6,10 @@
 
 # ​🇮​ ​🇳​ ​🇫​ ​🇴​ ​🇷​ ​🇲​ ​🇦​ ​🇹​ ​🇮​ ​🇴​ ​🇳​ 💬
 
-<p align=center> (https://github.com/ttlyxq112/one-click-hugo-cms/assets/105036249/af25e7dd-4506-4f9a-82eb-315846a24008)</p>
+<p align="center">
+  <img src="https://github.com/ttlyxq112/one-click-hugo-cms/assets/105036249/411478b2-1234-439c-bb20-32f2fc30e18f)
+">
+</p>
 
 ### Application doesnt work?
 
